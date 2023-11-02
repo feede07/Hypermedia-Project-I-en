@@ -20,3 +20,5 @@ Considering that Visual Studio Code doesn't offer a wide variety of fonts, for t
 My page design will be similar to a standard resume. Specifically, mine will have two distinct sections. On the left, there will be a blue rectangle containing my photo and the most personal information, such as contact details, a brief introduction about myself, and my projects. On the right, you'll find information more related to my academic and professional background.
 
 Link to Figma: https://www.figma.com/file/huodrGux9GOlCuKqTtcgur/Hypermedia-Project-I?type=design&node-id=0%3A1&mode=design&t=rwPCAEZGHZiz4b60-1
+
+Link to the website: https://feede07.github.io/Hypermedia-Project-I-en/
