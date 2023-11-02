@@ -1,4 +1,4 @@
-# Hypermedia-Project-I-english
+# Hypermedia-Project-I
 Project Analysis
 
 Target user profile
